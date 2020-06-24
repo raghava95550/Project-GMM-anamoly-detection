@@ -1,5 +1,6 @@
 # Project-GMM-anamoly-detection
-Anamoly detection system using Gaussian mixture model as clustering technique
+Anamoly detection system using Gaussian mixture model as clustering technique.
+
 This is implementation of the paper "Active Online Anomaly Detection using Dirichlet Process Mixture Model and Gaussian Process Classification".
 
 File- Full code GMM directly giving motion vectors, is jupyter notebook file.
